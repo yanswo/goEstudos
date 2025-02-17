@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func ifelse() {
+func main() {
 	
 	var idade int = 21
 

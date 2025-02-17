@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func For() {
+func main() {
 
 // começa do 0, menor que 10 e aumenta em 1 o valor.	
 for i := 0; i < 10; i++ {

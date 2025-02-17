@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func Switch() {
+func main() {
 
 var dia string = "segunda"
 
